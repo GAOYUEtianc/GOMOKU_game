@@ -1,16 +1,6 @@
 import random
 import pygame
 import os
-#os.environ['SDL_VIDEODRIVER']='dummy'
-
-# initialize pygame
-
-
-# initialize mixer （since we would use music）
-#pygame.mixer.init()
-
-# initialize screen size and titile
-
 
 
 pygame.init()
